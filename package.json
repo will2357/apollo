@@ -1,0 +1,23 @@
+{
+  "name": "apollo",
+  "version": "1.0.0",
+  "description": "I write books",
+  "keywords": [
+    "books"
+  ],
+  "homepage": "https://github.com/will2357/apollo#readme",
+  "bugs": {
+    "url": "https://github.com/will2357/apollo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/will2357/apollo.git"
+  },
+  "license": "UNLICENSED",
+  "author": "will2357",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
