@@ -1,7 +1,7 @@
 export default {
   HOST: "localhost",
-  USER: "will",
-  PASSWORD: "not_req_locally",
+  USER: "testuser",
+  PASSWORD: "testpass",
   DB: "testdb",
   dialect: "postgres",
   PORT: 5432,

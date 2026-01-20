@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import db from "./app/models.js";
+import db from "./app/models/index.js";
 import tutorialRoutes from "./app/routes/tutorial.routes.js";
 
 const app = express();
